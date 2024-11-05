@@ -18,7 +18,7 @@ function NavBar() {
            <img src="src/assets/icons8-buying-50 (1).png" alt="" />
           </Nav>
           <button type="button" className="btn-login" onClick={handleButtonClick}>Inicia Sesion</button>
-          <img src="src/assets/icons8-circular-argentina-48.png" alt="" />
+          <img src="dist/assets/icons8-circular-argentina-48.png" alt="" />
         </Navbar.Collapse>
       </Container>
     </Navbar>
